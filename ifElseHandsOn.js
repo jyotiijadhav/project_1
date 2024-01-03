@@ -16,3 +16,5 @@ var result=isEvenOrOdd(67);
 console.log(`67 is given no...${result}`);
 var result=isEvenOrOdd(98);
 console.log(`98 is given no...${result}`);
+
+
