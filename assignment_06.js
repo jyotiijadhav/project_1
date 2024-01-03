@@ -15,7 +15,7 @@ if (Check.startsWith("Java")) {
 } else {
   console.log("The string does not start with 'Java'.");
 }
-console.log("=============================step3=============================");
+console.log("=============================step 2=============================");
 function ischeckEvenOrOdd(num) {
   if (num % 2 === 0) {
     return "EVEN";
@@ -27,7 +27,7 @@ console.log(ischeckEvenOrOdd(45));
 console.log(ischeckEvenOrOdd(70));
 console.log(ischeckEvenOrOdd(67));
 console.log(ischeckEvenOrOdd(98));
-
+console.log("=============================step 3 =============================");
 //Eligible for vote
 
 function ischeckEligibilityForVote(age) {
